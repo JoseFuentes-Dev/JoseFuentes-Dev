@@ -38,6 +38,6 @@ Welcome to my space! I’m passionate about frontend development, focused on cre
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFuentes-Dev&layout=compact&theme=radical)
 
 ## 📅 **Contribution Graph**
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=joc-fuentes-dev&theme=radical)
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=JoseFuentes-Dev&theme=radical)
 
 ---
