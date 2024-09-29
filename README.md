@@ -14,14 +14,23 @@ Welcome to my space! I’m passionate about frontend development, focused on cre
 
 ---
 
-### 🧩 **Technologies**
+### 💼 **Skills**
+#### 📚 **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+#### 🌐 **Front-End Development**
 ![HTML](https://img.shields.io/badge/HTML5-FF5733?style=flat-square&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-005A8E?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+
+#### 🎨 **Design Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
 
 ---
