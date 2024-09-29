@@ -34,7 +34,7 @@ Welcome to my space! I’m passionate about frontend development, focused on cre
 ---
 
 ## 📊 **Stats**
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joc-fuentes-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joc-fuentes-dev&layout=compact&theme=radical)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseFuentes-Dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFuentes-Dev&layout=compact&theme=radical)
 
 ---
