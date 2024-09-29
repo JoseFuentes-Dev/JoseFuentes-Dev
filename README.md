@@ -56,7 +56,7 @@ Welcome to my space! I’m passionate about frontend development, focused on cre
 
 ### 💬 **Let’s Connect!**
 I’m open to collaborations, ideas, and exciting projects. If you want to chat or work together, feel free to reach out:
-- ✉️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joc.fuentes.dev@gmail.com)
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fuentes-a20309330/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joc.fuentes.dev@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fuentes-a20309330/)
 
 ---
